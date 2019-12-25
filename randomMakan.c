@@ -28,7 +28,8 @@ int main()
         "berger king",
         "Kaefsi",
         "siefsi",
-        "Nasi Uduk"
+        "Nasi Uduk",
+        "Tempat Baru"
     };
 
     int count=sizeof(makan)/sizeof(makan[0]);
